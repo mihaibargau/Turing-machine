@@ -5,7 +5,7 @@ for i in range(10):
         row.append("0")
     t_matrix.append(row)
 
-word = input("enter word: ")
+word = input("W= ")
 word = 'B' + word + 'B'
 f = open("input.txt", "r")
 
